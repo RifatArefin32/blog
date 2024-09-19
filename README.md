@@ -1,5 +1,6 @@
-# Learn Ruby on Rails
-Getting started with rails from [here](https://guides.rubyonrails.org/getting_started.html)
+# Ruby on Rails Learning
+- First started a crash course to learn Ruby Programming Language from [here](https://www.classcentral.com/classroom/freecodecamp-ruby-programming-language-full-course-58000/61875760c0ada) or from [here](https://www.youtube.com/watch?v=t_ispmWmdjY).
+- Getting started with rails from [here](https://guides.rubyonrails.org/getting_started.html)
 
 
 # Branch Documentation
