@@ -18,7 +18,7 @@ The Ruby on Rails file structure is designed to follow the MVC (Model-View-Contr
 
 
 ## Create Model
-Create a Model named BlogPost
+Create a Model named `BlogPost`
 ```code 
 rails generate BlogPost title:string body:text
 ```
